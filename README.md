@@ -1,8 +1,9 @@
+# This repository is a fork of the DEFCON branch of the OpenHAK fitness tracker
+
 # OpenHAK Hardware
 ## OpenSource Health Activity Kit Hardware Files
 
 KiCad files for the beta OpenHAK boards.
-
 
 ### WARNING: Siblees don't exist!
 
