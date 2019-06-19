@@ -1,4 +1,7 @@
-# OpenHAK Hardware
+# This repository is a fork of the OpenHAK fitness tracker hardware
+# Goto the [DEFCON branch](https://github.com/biohacking-village/OpenHAK_Hardware/tree/OpenHAK_BHVbadge_DEFCON) for files used to make the Biohacking Village Badge for DEFCON 27
+
+# OpenHAK Hardware Beta Branch
 ## OpenSource Health Activity Kit Hardware Files
 
 KiCad files for the beta OpenHAK boards.
